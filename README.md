@@ -1,6 +1,8 @@
-## $\textcolor{yellow}{GYULAI\ Attila}$
-$\textsc{\textcolor{yellow}{GYULAI\ Attila}}
-$${\color{blue}BME\space ARCHITECT}$$
+# $\textbf{\textcolor{darkgreen}{attila,\ GYULAI}}$
+
+#### $${\color{green}student\space and\space enthusiast\space of\space IT-AI-LLM,\space Eötvös\space Lóránd\space University,\space Budapest}$$
+#### $${\color{green}spec.\space ing.\space COLOR\space DYNAMICS,\space Budapest\space University\space of\space Technology\space and\space Economics}$$
+#### $${\color{green}dipl.\space ing.\space ARCHITECT,\space Budapest\space University\space of\space Technology\space and\space Economics}$$
 <!--
 ## Hi there 👋
 -->
