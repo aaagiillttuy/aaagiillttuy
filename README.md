@@ -1,4 +1,6 @@
 ## $\textcolor{yellow}{GYULAI\ Attila}$
+
+$${\color{blue}BME\space ARCHITECT}$$
 <!--
 ## Hi there 👋
 -->
