@@ -1,7 +1,8 @@
 # $\textbf{\textcolor{darkgreen}{attila,\ GYULAI}}$
 #### $${\color{green}python,\space pytorch,\space flask,\space fastAPI,\space marshmallow, \space pydantic, \space numpy,\space scikitlearn, \space etc. }$$
 
-#### $${\color{darkgreen}student\space and\space enthusiast\space of\space IT-AI-LLM,\space Eötvös\space Lóránd\space University,\space Budapest}$$
+#### $${\color{darkgreen}enthusiast\space of\space IT-AI-LLM}$$
+#### $${\color{darkgreen}Computer \space Science \space BSc,\space Eötvös\space Lóránd\space University,\space Budapest}$$
 #### $${\color{darkgreen}spec.\space ing.\space COLOR\space DYNAMICS,\space Budapest\space University\space of\space Technology\space and\space Economics}$$
 #### $${\color{darkgreen}dipl.\space ing.\space ARCHITECT,\space Budapest\space University\space of\space Technology\space and\space Economics}$$
 <!--
