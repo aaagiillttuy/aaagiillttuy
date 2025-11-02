@@ -1,5 +1,5 @@
 # $\textbf{\textcolor{darkgreen}{attila,\ GYULAI}}$
-#### $${\color{green}python,\space pytorch,\space flask,\space fastAPI,\space marshmallow, \space pydantic, \space numpy,\space scikitlearn, \space etc. }$$
+#### $${\color{green}python,\space pytorch,\space fastAPI,\space marshmallow, \space pydantic, \space numpy,\space scikitlearn, \space etc. }$$
 
 #### $${\color{darkgreen}enthusiast\space of\space IT-AI-LLM}$$
 #### $${\color{darkgreen}COMPUTER \space SCIENCE \space BSc,\space Eötvös\space Lóránd\space University,\space Budapest}$$
